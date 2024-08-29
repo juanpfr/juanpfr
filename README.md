@@ -25,6 +25,6 @@ Aqui você encontrará uma variedade de projetos que demonstram minhas habilidad
 
 - [**Teacher Camila Desktop**]([link-do-projeto](https://github.com/juanpfr/teacherCamilaDesktop)): Sistema Desktop para uma professora de inglês poder gerenciar seu site.
   
-- [**Teacher Camila Site**]([link-do-projeto](https://teachercamila.smpsistema.com.br)): Sistema Desktop para uma professora de inglês poder gerenciar seu site.
+- [**Teacher Camila Site**]([link-do-projeto](https://teachercamila.smpsistema.com.br)): Site institucinal com sistema de entrega de atividades, sistema de agendamento de aulas e gerenciamento do site e dos alunos por meio do Dashboard.
 
 Obrigado por visitar meu perfil!
