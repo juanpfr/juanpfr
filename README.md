@@ -24,12 +24,7 @@ Aqui estão algumas das linguagens e tecnologias que eu conheço e trabalho com 
 Aqui você encontrará uma variedade de projetos que demonstram minhas habilidades e interesses. Fique à vontade para explorar e deixar feedback!
 
 - [**Teacher Camila Desktop**]([link-do-projeto](https://github.com/juanpfr/teacherCamilaDesktop)): Sistema Desktop para uma professora de inglês poder gerenciar seu site.
-
-## 📫 Entre em Contato
-
-Estou sempre aberto a colaborações e oportunidades para aprender e crescer. Sinta-se à vontade para entrar em contato!
-
-- **LinkedIn**: [linkedin.com/in/naotenhoainda](https://linkedin.com/)
-- **Email**: [semEmailkk@gmail.com](mailto:seu-email@example.com)
+  
+- [**Teacher Camila Site**]([link-do-projeto](https://teachercamila.smpsistema.com.br)): Sistema Desktop para uma professora de inglês poder gerenciar seu site.
 
 Obrigado por visitar meu perfil!
