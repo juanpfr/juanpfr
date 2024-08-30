@@ -2,6 +2,8 @@
 
 Seja bem-vindo ao meu perfil no GitHub! 🚀
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/?src=go-pa&trk=sem-ga_campid.12619604099_asid.149519181115_crid.657343811719_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9196420&mcid=6821526239111716925&cid=&gad_source=1&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcKtR7P0oX8MXIDJ5VCZv7fxPXD1Wch81fIcgqIvpPq7SBvf3HqrtagaAkW1EALw_wcB&gclsrc=aw.ds)
+
 Sou um entusiasta da programação com um ano e meio de experiência. Minha jornada começou com o curso técnico em informática no SENAC, onde adquiri uma base sólida em tecnologia. Atualmente, estou me aprofundando no desenvolvimento de sistemas no SENAI, onde continuo a expandir minhas habilidades e conhecimentos.
 
 ## 🛠️ Tecnologias e Linguagens
