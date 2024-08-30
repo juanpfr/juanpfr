@@ -6,7 +6,7 @@ Sou um entusiasta da programação com um ano e meio de experiência. Minha jorn
 
 ## 🛠️ Tecnologias e Linguagens
 
-Aqui estão algumas das linguagens e tecnologias que eu conheço e trabalho com frequência:
+Aqui estão algumas das linguagens e tecnologias com as quais eu trabalho:
 
 - **HTML**: Estruturando a web com semântica e acessibilidade.
 - **CSS**: Estilizando páginas web com criatividade e design responsivo.
@@ -21,10 +21,14 @@ Aqui estão algumas das linguagens e tecnologias que eu conheço e trabalho com 
 
 ## 🌟 Projetos Destacados
 
-Aqui você encontrará uma variedade de projetos que demonstram minhas habilidades e interesses. Fique à vontade para explorar e deixar feedback!
+Aqui você encontrará alguns dos meus projetos que demonstram minhas habilidades e interesses. Fique à vontade para explorar e deixar feedback!
 
-- [**Teacher Camila Desktop**]([link-do-projeto](https://github.com/juanpfr/teacherCamilaDesktop)): Sistema Desktop para uma professora de inglês poder gerenciar seu site.
-  
-- [**Teacher Camila Site**]([link-do-projeto](https://teachercamila.smpsistema.com.br)): Site institucinal com sistema de entrega de atividades, sistema de agendamento de aulas e gerenciamento do site e dos alunos por meio do Dashboard.
+- [**Teacher Camila Desktop**](https://github.com/juanpfr/teacherCamilaDesktop)  
+  Sistema Desktop para uma professora de inglês poder gerenciar seu site.
 
-Obrigado por visitar meu perfil!
+- [**Teacher Camila Site**](https://teachercamila.smpsistema.com.br)  
+  Site institucional com sistema de entrega de atividades, sistema de agendamento de aulas e gerenciamento do site e dos alunos por meio do Dashboard.
+
+---
+
+Obrigado por visitar meu perfil! 😊
