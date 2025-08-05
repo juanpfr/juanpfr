@@ -2,6 +2,8 @@
 
 Seja bem-vindo ao meu perfil no GitHub! 🚀
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://juanpfr.github.io/portfolio)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanpedrof/)
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpfr&show_icons=true)
