@@ -1,12 +1,12 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=000000&center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Juan+👋💻🚀;" alt="Olá, Meu nome é Juan.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=ffffff&center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Juan+👋💻🚀;" alt="Olá, Meu nome é Juan.">
 </a>
 
 ### Desenvolvedor Backend & Mobile | Python • SQL • Java
 </div>
 
-<img align="top right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQxcnlkdTNkYnd2dWVhaXNsMnZoenZtd3F4NnFhMmlyYXh5d3JuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+<img align="right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQxcnlkdTNkYnd2dWVhaXNsMnZoenZtd3F4NnFhMmlyYXh5d3JuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 
 🎓 Técnico em Informática - SENAC <br>
 💻 Cursando Desenvolvimento de Sistemas - SENAI <br>
