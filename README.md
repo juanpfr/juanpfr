@@ -6,17 +6,19 @@
 ### Desenvolvedor Backend & Mobile | Python • SQL • Java
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <div>
-    🎓 Técnico em Informática - SENAC <br>
-    💻 Cursando Desenvolvimento de Sistemas - SENAI <br>
-    📚 Estudante de programação com +1 ano e meio de experiência <br><br>
-    🌐 Meu portfólio: <a href="https://juanpfr.github.io/portfolio">Clique aqui!</a>
-  </div>
-
-  <img height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQxcnlkdTNkYnd2dWVhaXNsMnZoenZtd3F4NnFhMmlyYXh5d3JuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
-</div>
+<table>
+  <tr>
+    <td>
+      🎓 Técnico em Informática - SENAC <br>
+      💻 Cursando Desenvolvimento de Sistemas - SENAI <br>
+      📚 Estudante de programação com +1 ano e meio de experiência <br><br>
+      🌐 Meu portfólio: <a href="https://juanpfr.github.io/portfolio">Clique aqui!</a>
+    </td>
+    <td>
+      <img height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQxcnlkdTNkYnd2dWVhaXNsMnZoenZtd3F4NnFhMmlyYXh5d3JuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
