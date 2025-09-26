@@ -26,10 +26,13 @@
 <img alt="Vscode" height="30" width="40" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="Github" height="30" width="40" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="mysql" height="30" width="40" title="Mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+<img alt="Android Studio" height="30" width="30" src="https://developer.android.com/static/images/logos/android.svg">
+<img alt="Visual Studio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img alt="SQL Server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
 
 <br>
