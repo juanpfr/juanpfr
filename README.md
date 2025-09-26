@@ -16,6 +16,12 @@
 
 ---
 
+## 🌐 Minhas redes:
+<a href="https://juanpfr.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/juanpedrof/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+---
+
 ## 🚀 Linguagens & Tecnologias
 
 <div align="center">
@@ -79,12 +85,6 @@
 
 - [**Event Flow**](https://github.com/juanpfr/event-flow)  
   Plataforma online de eventos com **cadastro/login de usuários, dashboard para organizadores (receitas, usuários registrados e mais) e painel de admin (edição de tabelas do banco, entre outros recursos)**.
-
----
-
-## 🌐 Minhas redes:
-<a href="https://juanpfr.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/juanpedrof/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 
