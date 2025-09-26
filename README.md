@@ -49,10 +49,13 @@
 ## 🌟 Projetos Destacados
 
 - [**Teacher Camila Desktop**](https://github.com/juanpfr/teacherCamilaDesktop)  
-  Sistema Desktop para uma professora de inglês gerenciar seu site.
+  Sistema Desktop para uma professora de inglês gerenciar agendamento de aulas, alunos cadastrados e arquivos de aula.
 
-- [**Teacher Camila Site**](https://github.com/juanpfr/teacherCamilaSite)  
-  Site institucional com sistema de entrega de atividades, agendamento de aulas e gerenciamento via dashboard.
+- [**TakeOne**](https://github.com/juanpfr/takeone)
+  Sistema para gerenciamento de usuários, aluguel de espaços ou estúdios, escolha de equipes específicas.
+
+- [**TakeOne**](https://github.com/juanpfr/takeone)
+Plataforma on-line de eventos, cadastro e login de usuários, painel dashboard de organizador (receitas, usuários registrados, muito mais), painel dashboard de admin(edição de tabelas no banco e mais).
 
 ---
 
