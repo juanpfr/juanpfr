@@ -4,7 +4,7 @@
 </a>
 </div>
 
-<img align="right" height="190" src="https://user-images.githubusercontent.com/111310311/227587194-bcd18c83-e841-4ee5-80c3-29dd257aea2f.gif"/>
+<img align="right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQxcnlkdTNkYnd2dWVhaXNsMnZoenZtd3F4NnFhMmlyYXh5d3JuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
 
 🎓 Técnico em Informática - SENAC <br>
 💻 Cursando Desenvolvimento de Sistemas - SENAI <br>
