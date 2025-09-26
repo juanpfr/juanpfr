@@ -77,7 +77,7 @@
 - [**TakeOne**](https://github.com/juanpfr/takeone)  
   Sistema para **gerenciamento de usuários, aluguel de espaços/estúdios e escolha de equipes específicas**.
 
-- [**Event Flow**](https://github.com/juanpfr/takeone)  
+- [**Event Flow**](https://github.com/juanpfr/event-flow)  
   Plataforma online de eventos com **cadastro/login de usuários, dashboard para organizadores (receitas, usuários registrados e mais) e painel de admin (edição de tabelas do banco, entre outros recursos)**.
 
 ---
