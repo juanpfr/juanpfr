@@ -14,7 +14,7 @@
 
 <br>
 
-## 🚀 Técnologias Usadas
+## 🚀 Tecnologias Usadas
 
 <div align="center">
 <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
