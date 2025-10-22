@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=ffffff&center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Juan+👋💻🚀;" alt="Olá, Meu nome é Juan.">
 </a>
 
-### Desenvolvedor Backend & Mobile | Python • SQL • Java • Kotlin
+### Desenvolvedor Backend & Mobile | Python • SQL • Kotlin
 </div>
 
 <div align="center">
