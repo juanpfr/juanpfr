@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=ffffff&center=true&vCenter=true&width=700&lines=Olá!+meu+nome+é+Juan+👋💻🚀;" alt="Olá, Meu nome é Juan.">
 </a>
 
-### Desenvolvedor Backend & Mobile | Python • SQL • Java
+### Desenvolvedor Backend & Mobile | Python • SQL • Java • Kotlin
 </div>
 
 <div align="center">
@@ -36,6 +36,7 @@
     <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     <img alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> 
     <img alt="Node-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
