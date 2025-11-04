@@ -12,7 +12,7 @@
         <td>
           🎓 Técnico em Informática - SENAC <br>
           💻 Cursando Desenvolvimento de Sistemas - SENAI <br>
-          📚 Estudante de programação com +1 ano e meio de experiência <br><br>
+          📚 Estudante de programação com +2 anos e meio de experiência <br><br>
           🌐 Meu portfólio: <a href="https://juanpfr.github.io/portfolio">Clique aqui!</a>
         </td>
         <td>
