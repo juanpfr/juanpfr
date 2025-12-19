@@ -104,6 +104,9 @@ Experiência com <b>Google Cloud Platform</b> (Compute Engine, Cloud Storage, Cl
 - [**Teacher Camila Desktop**](https://github.com/juanpfr/teacherCamilaDesktop)  
   Sistema desktop para **gestão de alunos, agendamento de aulas e arquivos**, com foco em organização e produtividade.
 
+- [**Free Pigeon**](https://github.com/juanpfr/free-pigeon)  
+  TCC: MarketPlace online com temática e funcionalidades do Mercado Livre.
+
 - [**TakeOne**](https://github.com/juanpfr/takeone)  
   Aplicação web para **gerenciamento de usuários, aluguel de espaços e controle de equipes**, utilizando arquitetura baseada em APIs.
 
