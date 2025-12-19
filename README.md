@@ -12,7 +12,7 @@
         <td>
           🎓 Técnico em Informática – SENAC <br>
           💻 Técnico em Desenvolvimento de Sistemas – SENAI <br>
-          📚 Desenvolvedor com experiência em aplicações web, APIs e Cloud <br><br>
+          📚 Desenvolvedor com experiência prática em aplicações web, APIs e Cloud <br><br>
           🌐 Meu portfólio: <a href="https://juanpfr.github.io/portfolio">Clique aqui!</a>
         </td>
         <td>
@@ -65,8 +65,6 @@ Utilizo **Git e GitHub** para versionamento de código, controle de branches, pu
 
 ## ☁️ Cloud & Dados
 
-### ☁️ Cloud Computing, APIs e Dados
-
 Tenho experiência com **Cloud Computing**, utilizando a **Google Cloud Platform (GCP)** em projetos práticos e acadêmicos. Já trabalhei com serviços como **Compute Engine**, **Cloud Storage** e **Cloud SQL**, aplicando conceitos de deploy, armazenamento e gerenciamento de dados em nuvem.
 
 Desenvolvo e consumo **APIs REST**, utilizando padrões HTTP, JSON, autenticação e integração entre sistemas. Possuo experiência na construção de back-ends que se comunicam com aplicações web e mobile.
@@ -74,7 +72,6 @@ Desenvolvo e consumo **APIs REST**, utilizando padrões HTTP, JSON, autenticaç�
 Atuo com bancos de dados relacionais como **MySQL**, **SQL Server** e **SQLite**, realizando modelagem de dados, consultas SQL, relacionamento entre tabelas e integração com aplicações back-end.
 
 Também possuo base em **Data Analytics, conceitos de Machine Learning e Generative AI**, adquirida por meio de estudos e certificações, com foco em entendimento de dados, pipelines e boas práticas de IA responsável.
-****
 
 <div align="center">
     <img alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
