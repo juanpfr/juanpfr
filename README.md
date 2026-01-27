@@ -13,7 +13,7 @@
 <tr>
 <td>
 
-🎓 Analise e Desenvolvimento de Sistemas - UNICV - Atual
+🎓 Analise e Desenvolvimento de Sistemas - UNICV - Atual  
 🎓 Técnico em Informática – SENAC  
 🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
 
