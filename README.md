@@ -13,8 +13,9 @@
 <tr>
 <td>
 
+🎓 Analise e Desenvolvimento de Sistemas - UNICV - Atual
 🎓 Técnico em Informática – SENAC  
-💻 Técnico em Desenvolvimento de Sistemas – SENAI  
+🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
 
 📌 Desenvolvedor com foco em **back-end e cloud**, experiência prática em APIs REST, aplicações web e deploy em GCP.
 
